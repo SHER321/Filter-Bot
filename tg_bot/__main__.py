@@ -22,7 +22,9 @@ PM_START_TEXT = """
 
 ```You You Can Add any kind of Filters to This Bot!```
 
-*Channel:© @DX_Botz*
+MY CREATOR😎 : <a href="@NGYNY">N I K H I L</a>
+
+*Channel: <a href="@ALL_MOVIES_LIABRARY">CLICK HERE</a>
 
 /help for more details..
 """
