@@ -26,9 +26,6 @@ PM_START_TEXT = """
 
 MY CREATOR [N I K H I L](t.me/NGYNY)
 
-*JOIN OUR CHANNEL [CLICK HERE](t.me/ALL_MOVIES_LIABRARY)*
-
-*JOIN OUR GROUP [CLICK HERE](t.me/MOVIERG_NY)
 
 /help for more details..
 """
