@@ -34,6 +34,8 @@ Hello! my name *{}*.
 
 *Main Available Commands* are Below:
 
+*Channel: <a href="@ALL_MOVIES_LIABRARY">CLICK HERE</a>
+
 All of the following commands  / can  be used...
 
 And the following:
