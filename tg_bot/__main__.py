@@ -38,7 +38,6 @@ Hello! my name *{}*.
 
 *JOIN OUR CHANNEL [CLICK HERE](t.me/ALL_MOVIES_LIABRARY)*
 
-*JOIN OUR GROUP [CLICK HERE](t.me/MOVIERG_NY)
 
 All of the following commands  / can  be used...
 
