@@ -24,7 +24,11 @@ PM_START_TEXT = """
 
 ```You You Can Add any kind of Filters to This Bot!```
 
-*Channel:© @DX_Botz*
+MY CREATOR [N I K H I L](t.me/NGYNY)
+
+*JOIN OUR CHANNEL [CLICK HERE](t.me/ALL_MOVIES_LIABRARY)*
+
+*JOIN OUR GROUP [CLICK HERE](t.me/MOVIERG_NY)
 
 /help for more details..
 """
@@ -33,6 +37,12 @@ HELP_STRINGS = """
 Hello! my name *{}*.
 
 *Main Available Commands* are Below:
+
+MY CREATOR [N I K H I L](t.me/NGYNY)
+
+*JOIN OUR CHANNEL [CLICK HERE](t.me/ALL_MOVIES_LIABRARY)*
+
+*JOIN OUR GROUP [CLICK HERE](t.me/MOVIERG_NY)
 
 All of the following commands  / can  be used...
 
